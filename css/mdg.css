@@ -1,0 +1,48 @@
+.select-summary {
+    min-height: 458px;
+}
+
+.event {
+	padding: 4px;
+}
+
+.red-bg {
+	background-color: red;	
+}
+
+.green-bg {
+	background-color: #62dd62;
+}
+
+.orange-bg {
+	background-color: #ff9e25;
+}
+
+.grey-bg {
+	background-color: #c6d5c6;
+}
+
+.padd-4 {
+	padding: 4px 0;
+}
+
+div.day-number:nth-of-type(1) {
+	margin: 0;
+	right: 0;
+	position: absolute;
+}
+
+
+div.day-number:nth-of-type(2) {
+	margin: 0;
+	float: none;
+	right: 31px;
+	position: absolute;
+
+}
+
+.column-header {
+	padding-bottom: 25px; 
+}
+
+
